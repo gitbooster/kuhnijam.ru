@@ -9,13 +9,16 @@
 <!-- Стили -->
 <link rel="stylesheet" href="<?php echo get_template_directory_uri();?>/css/owl.carousel.css"/>
 <!-- Скрипты -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="<?php echo get_template_directory_uri();?>/js/jquery.min.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
 <script src="<?php echo get_template_directory_uri();?>/js/jquery.bpopup.min.js"></script>
 <script src="<?php echo get_template_directory_uri();?>/js/owl.carousel.min.js"></script>
+<script src="<?php echo get_template_directory_uri();?>/js/jquery.parallax.js"></script>
+<script src="<?php echo get_template_directory_uri();?>/js/jquery.mixitup.min.js"></script>
 <script src="<?php echo get_template_directory_uri();?>/js/script.js"></script>
 
-<script src="<?php echo get_template_directory_uri();?>/js/jquery.parallax.js"></script>
+
+
 	
 	<script>
 

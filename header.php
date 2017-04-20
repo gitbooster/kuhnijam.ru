@@ -4,8 +4,6 @@
 <title><?php wp_title('|', true, 'right'); bloginfo('name'); ?></title>
 <meta charset="utf-8">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
-<link rel="icon" href="favicon.ico" type="image/x-icon" />
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
